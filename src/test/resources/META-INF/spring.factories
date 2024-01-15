@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = ru.mechetin.blog.\
+    config.TestContainersSpringContextCustomizerFactory,ru.mechetin.blog.config.\
+    SqlTestContainersSpringContextCustomizerFactory
